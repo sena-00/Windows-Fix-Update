@@ -1,4 +1,4 @@
-# AutoUpdateScript
+# Windows Fix&Update
 This repo is intented to automatize menial tasks to find, update and fix issues that generally leads to Windows slowness and crashes. It also ensures an accepted level of perfomance for many applications used daily in the company.
 The script was created in batch, and to work properly must be run as Administrator. The main functions are as follows:
 
