@@ -11,3 +11,6 @@ These tasks must be done bi-weekly on 12 computers. Running this script reduces 
 + Opens 'Windows Settings > Printers' and allow to make a computer-printer connection test and print quality
 + Execute Disk Defragmentation
 + Opens 'Zoom' and checks for updates
+
+> [!NOTE]
+> The commands and tasks perfomed are based on the clients needs. More commands may be added if needed.
