@@ -1,5 +1,7 @@
 # Windows Fix & Update
-![Screenshot_3](https://github.com/Lucas-Abrego-Sena/Windows-Fix-Update/assets/156020094/f380c218-7ca1-4e8d-980a-bc3f28530a80)
+
+![image](https://github.com/sena-00/Windows-Fix-Update/assets/156020094/fbb25d48-974f-47dd-9247-2e2aa24f1fd3)
+
 
 This script is intented to automatize menial tasks to find, update and fix issues that generally leads to Windows slowness and crashes. It also ensures an accepted level of perfomance for many applications used daily in the company.
 
