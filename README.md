@@ -14,7 +14,7 @@ The script was created in batch, and to work properly must be run as Administrat
 + Execute 'Check Disk' tool to scan your hard drive for file system errors
 + Execute 'System File Checker' tool to repair missing or corrupted system files
 + Force the update of the Group Policy configurations
-+ Shows hot-fixes installed on the local computer via PowerShell
++ Shows hot-fixes installed on the local computer via PowerShell 
 + Opens 'Windows Settings > Printers' and allow to make a computer-printer connection test and print quality
 + Execute Disk Defragmentation
 + Opens 'Zoom' and checks for updates
